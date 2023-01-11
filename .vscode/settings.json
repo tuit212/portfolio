@@ -1,0 +1,19 @@
+
+{
+    "liveSassCompile.settings.formats": [
+        {
+            "format": "expanded",
+            "extensionName": ".css",
+            "savePath": "/css",
+        }
+    ],
+    
+    "liveServer.settings.port": 5503,
+    "background.fullscreen": {
+    
+        "image": "",
+        "opacity": 0.91,
+        "size": "cover",
+        "interval": 0
+    }
+}
