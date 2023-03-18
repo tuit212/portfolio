@@ -1,0 +1,11 @@
+@mixin center ($fl , $center , $sb){
+    display: $fl;
+    align-items: $center;
+    justify-content: $sb;
+}
+
+@mixin text ($s , $w , $c) {
+    font-size: $s;
+    font-weight: $w;
+    color: $c;
+}
